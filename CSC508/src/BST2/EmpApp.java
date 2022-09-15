@@ -7,7 +7,7 @@ package BST2;
 
 /**
  *
- * @author hidayah
+ * @author 
  */
 import javax.swing.*;
 import java.util.Scanner;
