@@ -1,8 +1,8 @@
 /*
-Name : SITI NURHIDAYAH BINTI HALIZAN
-Sid# : 2021477726
+Name :
+Sid# : 
 Course: CSC508
-Group#: CS2304A
+Group#: 
 Assign#: LAB 3 (ON BST)
 Due Date: 15 JULAI 2022
 Program Description: BSTNotebook
